@@ -8,3 +8,4 @@ We saw samples
 1. We're creating a repository!
 2. We're presentation _agnostic_
 3. Should I name my commits?
+4. Now we're trying branches
