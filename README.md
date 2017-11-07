@@ -5,5 +5,5 @@ I'm here in Pittsburgh on a sleety Wednesday learning about the exciting new wor
 It was great;
 We saw samples
 ## Eric got techy
-We're creating a repository!
-We're presentation _agnostic_
+1. We're creating a repository!
+2. We're presentation _agnostic_
